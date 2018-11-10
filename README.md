@@ -1,6 +1,8 @@
 # ds001
 data science notebooks from Dataquest.io
 
+Testing: using git bash to push commits to origin master on github
+
 First repo tracking my progress in learning data science from dataquest.io
 
 ## Python Beginner
@@ -12,3 +14,4 @@ use usbirths.ipynb to launch the exploration.
 Project II: Analyzing Gun Deaths in US from 2012 to 2014
   
 use gundeaths.ipynb to launch the analysis.
+
